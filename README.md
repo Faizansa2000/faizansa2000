@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Faizan!+👋;+A+Data+Scientist;" />
 </h1>
 
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on a project
+ 🔭 I'm working on a project
  
- 🌱 I’m currently learning NLP, Machine Learning, AWS
+ 🌱 Currently Learning Machine Learning
 
-⚡ Fun fact: Love to travel
+⚡ Fun fact: I Love to travel
 
  </div>
  
