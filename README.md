@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Faizansa2000.Faizansa2000"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Faizan!+👋;+A+Data+Analyst;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Faizan!+👋;+A+Wannabe+Data+Scientist;" />
 </h1>
 
 <br/>
@@ -10,7 +10,7 @@
  
  🔭 I'm working on a project
 
-⚡ Fun fact: I Love to travel
+⚡ Fun fact: I love to travel
 
  </div>
  
